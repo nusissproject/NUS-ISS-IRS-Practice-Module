@@ -1,0 +1,1694 @@
+{
+    "DetR-large-scale.coco-segmentation/Lake Ridgefield": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "tp": 12,
+        "tn": 16,
+        "fp": 0,
+        "fn": 0,
+        "fp list": [],
+        "fn list": [],
+        "grid_partition_num": 6,
+        "ga_bins_used": 5,
+        "partition_efficiency_score": 1.2
+    },
+    "DetR-large-scale.coco-segmentation/South Cleardale": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "tp": 8,
+        "tn": 16,
+        "fp": 0,
+        "fn": 0,
+        "fp list": [],
+        "fn list": [],
+        "grid_partition_num": 9,
+        "ga_bins_used": 5,
+        "partition_efficiency_score": 1.8
+    },
+    "UNISEM-ZN1461.coco-segmentation/Lake Marshwood": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "tp": 10,
+        "tn": 14,
+        "fp": 0,
+        "fn": 0,
+        "fp list": [],
+        "fn list": [],
+        "grid_partition_num": 16,
+        "ga_bins_used": 6,
+        "partition_efficiency_score": 2.6666666666666665
+    },
+    "DetR-large-scale.coco-segmentation/Marsh Valley": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "tp": 10,
+        "tn": 13,
+        "fp": 0,
+        "fn": 0,
+        "fp list": [],
+        "fn list": [],
+        "grid_partition_num": 6,
+        "ga_bins_used": 5,
+        "partition_efficiency_score": 1.2
+    },
+    "DetR-large-scale.coco-segmentation/River Oakcrest": {
+        "precision": 1.0,
+        "recall": 0.9583333333333334,
+        "tp": 23,
+        "tn": 0,
+        "fp": 0,
+        "fn": 1,
+        "fp list": [],
+        "fn list": [
+            {
+                "id": 1,
+                "data failure reason": "False negative prediction, no corresponding annotation found with iou 0.52 and hausdorff distance 325.64",
+                "issue_image": "test_cases/RoboFlowSyntheticData/DetR-large-scale.coco-segmentation/River Oakcrest/DataValidationResultWithBestExemplar/sam3_fn_issue_wire_1.jpg"
+            }
+        ],
+        "grid_partition_num": 6,
+        "ga_bins_used": 5,
+        "partition_efficiency_score": 1.2
+    },
+    "DOS-semicon.coco-segmentation/Saint Valleyville": {
+        "precision": 1.0,
+        "recall": 0.875,
+        "tp": 7,
+        "tn": 0,
+        "fp": 0,
+        "fn": 1,
+        "fp list": [],
+        "fn list": [
+            {
+                "id": 1,
+                "data failure reason": "False negative prediction, no corresponding annotation found with iou 0.58 and hausdorff distance 84.96",
+                "issue_image": "test_cases/RoboFlowSyntheticData/DOS-semicon.coco-segmentation/Saint Valleyville/DataValidationResultWithBestExemplar/sam3_fn_issue_wire_1.jpg"
+            }
+        ],
+        "grid_partition_num": 4,
+        "ga_bins_used": 1,
+        "partition_efficiency_score": 4.0
+    },
+    "UNISEM-ZN1461.coco-segmentation/Grand Clearboro": {
+        "precision": 0.9230769230769231,
+        "recall": 0.9230769230769231,
+        "tp": 12,
+        "tn": 12,
+        "fp": 1,
+        "fn": 1,
+        "fp list": [
+            {
+                "id": 25,
+                "data failure reason": "False positive prediction, no corresponding annotation found with iou 0.25 and hausdorff distance 388.62",
+                "issue_image": "test_cases/RoboFlowSyntheticData/UNISEM-ZN1461.coco-segmentation/Grand Clearboro/DataValidationResultWithBestExemplar/sam3_fp_issue_wire_25.jpg"
+            }
+        ],
+        "fn list": [
+            {
+                "id": 1,
+                "data failure reason": "False negative prediction, no corresponding annotation found with iou 0.71 and hausdorff distance 64.20",
+                "issue_image": "test_cases/RoboFlowSyntheticData/UNISEM-ZN1461.coco-segmentation/Grand Clearboro/DataValidationResultWithBestExemplar/sam3_fn_issue_wire_1.jpg"
+            }
+        ],
+        "grid_partition_num": 16,
+        "ga_bins_used": 6,
+        "partition_efficiency_score": 2.6666666666666665
+    },
+    "fariq-generalize-dos.coco-segmentation/South Rockford": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "tp": 2,
+        "tn": 6,
+        "fp": 0,
+        "fn": 0,
+        "fp list": [],
+        "fn list": [],
+        "grid_partition_num": 4,
+        "ga_bins_used": 1,
+        "partition_efficiency_score": 4.0
+    },
+    "fariq-generalize-dos.coco-segmentation/New Goldshire": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "tp": 9,
+        "tn": 13,
+        "fp": 0,
+        "fn": 0,
+        "fp list": [],
+        "fn list": [],
+        "grid_partition_num": 2,
+        "ga_bins_used": 1,
+        "partition_efficiency_score": 2.0
+    },
+    "UNISEM-ZN1461.coco-segmentation/Glen Pine": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "tp": 10,
+        "tn": 14,
+        "fp": 0,
+        "fn": 0,
+        "fp list": [],
+        "fn list": [],
+        "grid_partition_num": 9,
+        "ga_bins_used": 5,
+        "partition_efficiency_score": 1.8
+    },
+    "DOS-semicon.coco-segmentation/Fort Springshire": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "tp": 0,
+        "tn": 0,
+        "fp": 0,
+        "fn": 22,
+        "fp list": [],
+        "fn list": [
+            {
+                "id": 0,
+                "data failure reason": "False negative prediction, no corresponding annotation found with iou 0.00 and hausdorff distance 0.00",
+                "issue_image": "test_cases/RoboFlowSyntheticData/DOS-semicon.coco-segmentation/Fort Springshire/DataValidationResultWithBestExemplar/sam3_fn_issue_wire_0.jpg"
+            },
+            {
+                "id": 1,
+                "data failure reason": "False negative prediction, no corresponding annotation found with iou 0.00 and hausdorff distance 0.00",
+                "issue_image": "test_cases/RoboFlowSyntheticData/DOS-semicon.coco-segmentation/Fort Springshire/DataValidationResultWithBestExemplar/sam3_fn_issue_wire_1.jpg"
+            },
+            {
+                "id": 2,
+                "data failure reason": "False negative prediction, no corresponding annotation found with iou 0.00 and hausdorff distance 0.00",
+                "issue_image": "test_cases/RoboFlowSyntheticData/DOS-semicon.coco-segmentation/Fort Springshire/DataValidationResultWithBestExemplar/sam3_fn_issue_wire_2.jpg"
+            },
+            {
+                "id": 3,
+                "data failure reason": "False negative prediction, no corresponding annotation found with iou 0.00 and hausdorff distance 0.00",
+                "issue_image": "test_cases/RoboFlowSyntheticData/DOS-semicon.coco-segmentation/Fort Springshire/DataValidationResultWithBestExemplar/sam3_fn_issue_wire_3.jpg"
+            },
+            {
+                "id": 4,
+                "data failure reason": "False negative prediction, no corresponding annotation found with iou 0.00 and hausdorff distance 0.00",
+                "issue_image": "test_cases/RoboFlowSyntheticData/DOS-semicon.coco-segmentation/Fort Springshire/DataValidationResultWithBestExemplar/sam3_fn_issue_wire_4.jpg"
+            },
+            {
+                "id": 5,
+                "data failure reason": "False negative prediction, no corresponding annotation found with iou 0.00 and hausdorff distance 0.00",
+                "issue_image": "test_cases/RoboFlowSyntheticData/DOS-semicon.coco-segmentation/Fort Springshire/DataValidationResultWithBestExemplar/sam3_fn_issue_wire_5.jpg"
+            },
+            {
+                "id": 6,
+                "data failure reason": "False negative prediction, no corresponding annotation found with iou 0.00 and hausdorff distance 0.00",
+                "issue_image": "test_cases/RoboFlowSyntheticData/DOS-semicon.coco-segmentation/Fort Springshire/DataValidationResultWithBestExemplar/sam3_fn_issue_wire_6.jpg"
+            },
+            {
+                "id": 7,
+                "data failure reason": "False negative prediction, no corresponding annotation found with iou 0.00 and hausdorff distance 0.00",
+                "issue_image": "test_cases/RoboFlowSyntheticData/DOS-semicon.coco-segmentation/Fort Springshire/DataValidationResultWithBestExemplar/sam3_fn_issue_wire_7.jpg"
+            },
+            {
+                "id": 8,
+                "data failure reason": "False negative prediction, no corresponding annotation found with iou 0.00 and hausdorff distance 0.00",
+                "issue_image": "test_cases/RoboFlowSyntheticData/DOS-semicon.coco-segmentation/Fort Springshire/DataValidationResultWithBestExemplar/sam3_fn_issue_wire_8.jpg"
+            },
+            {
+                "id": 9,
+                "data failure reason": "False negative prediction, no corresponding annotation found with iou 0.00 and hausdorff distance 0.00",
+                "issue_image": "test_cases/RoboFlowSyntheticData/DOS-semicon.coco-segmentation/Fort Springshire/DataValidationResultWithBestExemplar/sam3_fn_issue_wire_9.jpg"
+            },
+            {
+                "id": 10,
+                "data failure reason": "False negative prediction, no corresponding annotation found with iou 0.00 and hausdorff distance 0.00",
+                "issue_image": "test_cases/RoboFlowSyntheticData/DOS-semicon.coco-segmentation/Fort Springshire/DataValidationResultWithBestExemplar/sam3_fn_issue_wire_10.jpg"
+            },
+            {
+                "id": 11,
+                "data failure reason": "False negative prediction, no corresponding annotation found with iou 0.00 and hausdorff distance 0.00",
+                "issue_image": "test_cases/RoboFlowSyntheticData/DOS-semicon.coco-segmentation/Fort Springshire/DataValidationResultWithBestExemplar/sam3_fn_issue_wire_11.jpg"
+            },
+            {
+                "id": 12,
+                "data failure reason": "False negative prediction, no corresponding annotation found with iou 0.00 and hausdorff distance 0.00",
+                "issue_image": "test_cases/RoboFlowSyntheticData/DOS-semicon.coco-segmentation/Fort Springshire/DataValidationResultWithBestExemplar/sam3_fn_issue_wire_12.jpg"
+            },
+            {
+                "id": 13,
+                "data failure reason": "False negative prediction, no corresponding annotation found with iou 0.00 and hausdorff distance 0.00",
+                "issue_image": "test_cases/RoboFlowSyntheticData/DOS-semicon.coco-segmentation/Fort Springshire/DataValidationResultWithBestExemplar/sam3_fn_issue_wire_13.jpg"
+            },
+            {
+                "id": 14,
+                "data failure reason": "False negative prediction, no corresponding annotation found with iou 0.00 and hausdorff distance 0.00",
+                "issue_image": "test_cases/RoboFlowSyntheticData/DOS-semicon.coco-segmentation/Fort Springshire/DataValidationResultWithBestExemplar/sam3_fn_issue_wire_14.jpg"
+            },
+            {
+                "id": 15,
+                "data failure reason": "False negative prediction, no corresponding annotation found with iou 0.00 and hausdorff distance 0.00",
+                "issue_image": "test_cases/RoboFlowSyntheticData/DOS-semicon.coco-segmentation/Fort Springshire/DataValidationResultWithBestExemplar/sam3_fn_issue_wire_15.jpg"
+            },
+            {
+                "id": 16,
+                "data failure reason": "False negative prediction, no corresponding annotation found with iou 0.00 and hausdorff distance 0.00",
+                "issue_image": "test_cases/RoboFlowSyntheticData/DOS-semicon.coco-segmentation/Fort Springshire/DataValidationResultWithBestExemplar/sam3_fn_issue_wire_16.jpg"
+            },
+            {
+                "id": 17,
+                "data failure reason": "False negative prediction, no corresponding annotation found with iou 0.00 and hausdorff distance 0.00",
+                "issue_image": "test_cases/RoboFlowSyntheticData/DOS-semicon.coco-segmentation/Fort Springshire/DataValidationResultWithBestExemplar/sam3_fn_issue_wire_17.jpg"
+            },
+            {
+                "id": 18,
+                "data failure reason": "False negative prediction, no corresponding annotation found with iou 0.00 and hausdorff distance 0.00",
+                "issue_image": "test_cases/RoboFlowSyntheticData/DOS-semicon.coco-segmentation/Fort Springshire/DataValidationResultWithBestExemplar/sam3_fn_issue_wire_18.jpg"
+            },
+            {
+                "id": 19,
+                "data failure reason": "False negative prediction, no corresponding annotation found with iou 0.00 and hausdorff distance 0.00",
+                "issue_image": "test_cases/RoboFlowSyntheticData/DOS-semicon.coco-segmentation/Fort Springshire/DataValidationResultWithBestExemplar/sam3_fn_issue_wire_19.jpg"
+            },
+            {
+                "id": 20,
+                "data failure reason": "False negative prediction, no corresponding annotation found with iou 0.00 and hausdorff distance 0.00",
+                "issue_image": "test_cases/RoboFlowSyntheticData/DOS-semicon.coco-segmentation/Fort Springshire/DataValidationResultWithBestExemplar/sam3_fn_issue_wire_20.jpg"
+            },
+            {
+                "id": 21,
+                "data failure reason": "False negative prediction, no corresponding annotation found with iou 0.00 and hausdorff distance 0.00",
+                "issue_image": "test_cases/RoboFlowSyntheticData/DOS-semicon.coco-segmentation/Fort Springshire/DataValidationResultWithBestExemplar/sam3_fn_issue_wire_21.jpg"
+            }
+        ],
+        "grid_partition_num": 6,
+        "ga_bins_used": 2,
+        "partition_efficiency_score": 3.0
+    },
+    "fariq-generalize-dos.coco-segmentation/Mount Brookford": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "tp": 12,
+        "tn": 10,
+        "fp": 0,
+        "fn": 0,
+        "fp list": [],
+        "fn list": [],
+        "grid_partition_num": 6,
+        "ga_bins_used": 2,
+        "partition_efficiency_score": 3.0
+    },
+    "DetR-large-scale.coco-segmentation/New Ridgeport": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "tp": 4,
+        "tn": 6,
+        "fp": 0,
+        "fn": 0,
+        "fp list": [],
+        "fn list": [],
+        "grid_partition_num": 6,
+        "ga_bins_used": 3,
+        "partition_efficiency_score": 2.0
+    },
+    "UNISEM-ZN1461.coco-segmentation/Oak Lake": {
+        "precision": 1.0,
+        "recall": 0.9285714285714286,
+        "tp": 13,
+        "tn": 10,
+        "fp": 0,
+        "fn": 1,
+        "fp list": [],
+        "fn list": [
+            {
+                "id": 3,
+                "data failure reason": "False negative prediction, no corresponding annotation found with iou 0.71 and hausdorff distance 85.91",
+                "issue_image": "test_cases/RoboFlowSyntheticData/UNISEM-ZN1461.coco-segmentation/Oak Lake/DataValidationResultWithBestExemplar/sam3_fn_issue_wire_3.jpg"
+            }
+        ],
+        "grid_partition_num": 9,
+        "ga_bins_used": 5,
+        "partition_efficiency_score": 1.8
+    },
+    "DetR-large-scale.coco-segmentation/West Marshford": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "tp": 13,
+        "tn": 11,
+        "fp": 0,
+        "fn": 0,
+        "fp list": [],
+        "fn list": [],
+        "grid_partition_num": 9,
+        "ga_bins_used": 5,
+        "partition_efficiency_score": 1.8
+    },
+    "DOS-semicon.coco-segmentation/Port Brookburg": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "tp": 4,
+        "tn": 4,
+        "fp": 0,
+        "fn": 0,
+        "fp list": [],
+        "fn list": [],
+        "grid_partition_num": 6,
+        "ga_bins_used": 1,
+        "partition_efficiency_score": 6.0
+    },
+    "DetR-large-scale.coco-segmentation/Mount Silvershire": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "tp": 9,
+        "tn": 18,
+        "fp": 0,
+        "fn": 0,
+        "fp list": [],
+        "fn list": [],
+        "grid_partition_num": 6,
+        "ga_bins_used": 5,
+        "partition_efficiency_score": 1.2
+    },
+    "fariq-generalize-dos.coco-segmentation/Old Greenshire": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "tp": 12,
+        "tn": 13,
+        "fp": 0,
+        "fn": 0,
+        "fp list": [],
+        "fn list": [],
+        "grid_partition_num": 6,
+        "ga_bins_used": 6,
+        "partition_efficiency_score": 1.0
+    },
+    "fariq-generalize-dos.coco-segmentation/Saint Millmount": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "tp": 5,
+        "tn": 6,
+        "fp": 0,
+        "fn": 0,
+        "fp list": [],
+        "fn list": [],
+        "grid_partition_num": 4,
+        "ga_bins_used": 4,
+        "partition_efficiency_score": 1.0
+    },
+    "UNISEM-ZN1461.coco-segmentation/South Springboro": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "tp": 10,
+        "tn": 14,
+        "fp": 0,
+        "fn": 0,
+        "fp list": [],
+        "fn list": [],
+        "grid_partition_num": 9,
+        "ga_bins_used": 5,
+        "partition_efficiency_score": 1.8
+    },
+    "DetR-large-scale.coco-segmentation/Old Oakford": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "tp": 8,
+        "tn": 16,
+        "fp": 0,
+        "fn": 0,
+        "fp list": [],
+        "fn list": [],
+        "grid_partition_num": 4,
+        "ga_bins_used": 4,
+        "partition_efficiency_score": 1.0
+    },
+    "fariq-generalize-dos.coco-segmentation/Fort Goldstead": {
+        "precision": 1.0,
+        "recall": 0.6666666666666666,
+        "tp": 2,
+        "tn": 5,
+        "fp": 0,
+        "fn": 1,
+        "fp list": [],
+        "fn list": [
+            {
+                "id": 7,
+                "data failure reason": "False negative prediction, no corresponding annotation found with iou 0.54 and hausdorff distance 114.59",
+                "issue_image": "test_cases/RoboFlowSyntheticData/fariq-generalize-dos.coco-segmentation/Fort Goldstead/DataValidationResultWithBestExemplar/sam3_fn_issue_wire_7.jpg"
+            }
+        ],
+        "grid_partition_num": 4,
+        "ga_bins_used": 1,
+        "partition_efficiency_score": 4.0
+    },
+    "DOS-semicon.coco-segmentation/Lake Brook": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "tp": 8,
+        "tn": 14,
+        "fp": 0,
+        "fn": 0,
+        "fp list": [],
+        "fn list": [],
+        "grid_partition_num": 6,
+        "ga_bins_used": 2,
+        "partition_efficiency_score": 3.0
+    },
+    "DetR-large-scale.coco-segmentation/Spring Ridge": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "tp": 6,
+        "tn": 17,
+        "fp": 0,
+        "fn": 0,
+        "fp list": [],
+        "fn list": [],
+        "grid_partition_num": 6,
+        "ga_bins_used": 5,
+        "partition_efficiency_score": 1.2
+    },
+    "DetR-large-scale.coco-segmentation/San Valleyburg": {
+        "precision": 0.7272727272727273,
+        "recall": 1.0,
+        "tp": 8,
+        "tn": 13,
+        "fp": 3,
+        "fn": 0,
+        "fp list": [
+            {
+                "id": 3,
+                "data failure reason": "False positive prediction, no corresponding annotation found with iou 0.86 and hausdorff distance 40.52",
+                "issue_image": "test_cases/RoboFlowSyntheticData/DetR-large-scale.coco-segmentation/San Valleyburg/DataValidationResultWithBestExemplar/sam3_fp_issue_wire_3.jpg"
+            },
+            {
+                "id": 7,
+                "data failure reason": "False positive prediction, no corresponding annotation found with iou 0.84 and hausdorff distance 98.60",
+                "issue_image": "test_cases/RoboFlowSyntheticData/DetR-large-scale.coco-segmentation/San Valleyburg/DataValidationResultWithBestExemplar/sam3_fp_issue_wire_7.jpg"
+            },
+            {
+                "id": 8,
+                "data failure reason": "False positive prediction, no corresponding annotation found with iou 0.90 and hausdorff distance 55.90",
+                "issue_image": "test_cases/RoboFlowSyntheticData/DetR-large-scale.coco-segmentation/San Valleyburg/DataValidationResultWithBestExemplar/sam3_fp_issue_wire_8.jpg"
+            }
+        ],
+        "fn list": [],
+        "grid_partition_num": 9,
+        "ga_bins_used": 6,
+        "partition_efficiency_score": 1.5
+    },
+    "DetR-large-scale.coco-segmentation/Port Silverboro": {
+        "precision": 1.0,
+        "recall": 0.7142857142857143,
+        "tp": 5,
+        "tn": 0,
+        "fp": 0,
+        "fn": 2,
+        "fp list": [],
+        "fn list": [
+            {
+                "id": 1,
+                "data failure reason": "False negative prediction, no corresponding annotation found with iou 0.67 and hausdorff distance 54.74",
+                "issue_image": "test_cases/RoboFlowSyntheticData/DetR-large-scale.coco-segmentation/Port Silverboro/DataValidationResultWithBestExemplar/sam3_fn_issue_wire_1.jpg"
+            },
+            {
+                "id": 5,
+                "data failure reason": "False negative prediction, no corresponding annotation found with iou 0.56 and hausdorff distance 31.57",
+                "issue_image": "test_cases/RoboFlowSyntheticData/DetR-large-scale.coco-segmentation/Port Silverboro/DataValidationResultWithBestExemplar/sam3_fn_issue_wire_5.jpg"
+            }
+        ],
+        "grid_partition_num": 4,
+        "ga_bins_used": 3,
+        "partition_efficiency_score": 1.3333333333333333
+    },
+    "UNISEM-ZN1461.coco-segmentation/Fort Brookmount": {
+        "precision": 0.9090909090909091,
+        "recall": 1.0,
+        "tp": 10,
+        "tn": 13,
+        "fp": 1,
+        "fn": 0,
+        "fp list": [
+            {
+                "id": 7,
+                "data failure reason": "False positive prediction, no corresponding annotation found with iou 0.61 and hausdorff distance 130.14",
+                "issue_image": "test_cases/RoboFlowSyntheticData/UNISEM-ZN1461.coco-segmentation/Fort Brookmount/DataValidationResultWithBestExemplar/sam3_fp_issue_wire_7.jpg"
+            }
+        ],
+        "fn list": [],
+        "grid_partition_num": 16,
+        "ga_bins_used": 6,
+        "partition_efficiency_score": 2.6666666666666665
+    },
+    "UNISEM-ZN1461.coco-segmentation/South Fairheights": {
+        "precision": 0.9090909090909091,
+        "recall": 1.0,
+        "tp": 10,
+        "tn": 14,
+        "fp": 1,
+        "fn": 0,
+        "fp list": [
+            {
+                "id": 7,
+                "data failure reason": "False positive prediction, no corresponding annotation found with iou 0.63 and hausdorff distance 110.37",
+                "issue_image": "test_cases/RoboFlowSyntheticData/UNISEM-ZN1461.coco-segmentation/South Fairheights/DataValidationResultWithBestExemplar/sam3_fp_issue_wire_7.jpg"
+            }
+        ],
+        "fn list": [],
+        "grid_partition_num": 16,
+        "ga_bins_used": 6,
+        "partition_efficiency_score": 2.6666666666666665
+    },
+    "UNISEM-ZN1461.coco-segmentation/Silver Heights": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "tp": 10,
+        "tn": 14,
+        "fp": 0,
+        "fn": 0,
+        "fp list": [],
+        "fn list": [],
+        "grid_partition_num": 16,
+        "ga_bins_used": 7,
+        "partition_efficiency_score": 2.2857142857142856
+    },
+    "UNISEM-ZN1461.coco-segmentation/Saint Rockburg": {
+        "precision": 1.0,
+        "recall": 0.875,
+        "tp": 21,
+        "tn": 0,
+        "fp": 0,
+        "fn": 3,
+        "fp list": [],
+        "fn list": [
+            {
+                "id": 5,
+                "data failure reason": "False negative prediction, no corresponding annotation found with iou 0.62 and hausdorff distance 119.33",
+                "issue_image": "test_cases/RoboFlowSyntheticData/UNISEM-ZN1461.coco-segmentation/Saint Rockburg/DataValidationResultWithBestExemplar/sam3_fn_issue_wire_5.jpg"
+            },
+            {
+                "id": 6,
+                "data failure reason": "False negative prediction, no corresponding annotation found with iou 0.36 and hausdorff distance 325.48",
+                "issue_image": "test_cases/RoboFlowSyntheticData/UNISEM-ZN1461.coco-segmentation/Saint Rockburg/DataValidationResultWithBestExemplar/sam3_fn_issue_wire_6.jpg"
+            },
+            {
+                "id": 23,
+                "data failure reason": "False negative prediction, no corresponding annotation found with iou 0.67 and hausdorff distance 111.16",
+                "issue_image": "test_cases/RoboFlowSyntheticData/UNISEM-ZN1461.coco-segmentation/Saint Rockburg/DataValidationResultWithBestExemplar/sam3_fn_issue_wire_23.jpg"
+            }
+        ],
+        "grid_partition_num": 16,
+        "ga_bins_used": 6,
+        "partition_efficiency_score": 2.6666666666666665
+    },
+    "DetR-large-scale.coco-segmentation/Stone Burg": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "tp": 7,
+        "tn": 15,
+        "fp": 0,
+        "fn": 0,
+        "fp list": [],
+        "fn list": [],
+        "grid_partition_num": 2,
+        "ga_bins_used": 1,
+        "partition_efficiency_score": 2.0
+    },
+    "DOS-semicon.coco-segmentation/Gold Ton": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "tp": 1,
+        "tn": 7,
+        "fp": 0,
+        "fn": 0,
+        "fp list": [],
+        "fn list": [],
+        "grid_partition_num": 6,
+        "ga_bins_used": 1,
+        "partition_efficiency_score": 6.0
+    },
+    "UNISEM-ZN1461.coco-segmentation/Green Ton": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "tp": 4,
+        "tn": 20,
+        "fp": 0,
+        "fn": 0,
+        "fp list": [],
+        "fn list": [],
+        "grid_partition_num": 9,
+        "ga_bins_used": 5,
+        "partition_efficiency_score": 1.8
+    },
+    "fariq-generalize-dos.coco-segmentation/Pine Mill": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "tp": 8,
+        "tn": 20,
+        "fp": 0,
+        "fn": 0,
+        "fp list": [],
+        "fn list": [],
+        "grid_partition_num": 4,
+        "ga_bins_used": 3,
+        "partition_efficiency_score": 1.3333333333333333
+    },
+    "DOS-semicon.coco-segmentation/Port Springshire": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "tp": 5,
+        "tn": 5,
+        "fp": 0,
+        "fn": 0,
+        "fp list": [],
+        "fn list": [],
+        "grid_partition_num": 12,
+        "ga_bins_used": 3,
+        "partition_efficiency_score": 4.0
+    },
+    "DetR-large-scale.coco-segmentation/Glen Springstead": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "tp": 5,
+        "tn": 6,
+        "fp": 0,
+        "fn": 0,
+        "fp list": [],
+        "fn list": [],
+        "grid_partition_num": 4,
+        "ga_bins_used": 4,
+        "partition_efficiency_score": 1.0
+    },
+    "DOS-semicon.coco-segmentation/Brook Heights": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "tp": 10,
+        "tn": 12,
+        "fp": 0,
+        "fn": 0,
+        "fp list": [],
+        "fn list": [],
+        "grid_partition_num": 6,
+        "ga_bins_used": 2,
+        "partition_efficiency_score": 3.0
+    },
+    "DetR-large-scale.coco-segmentation/Saint Pine": {
+        "precision": 0.8888888888888888,
+        "recall": 1.0,
+        "tp": 8,
+        "tn": 16,
+        "fp": 1,
+        "fn": 0,
+        "fp list": [
+            {
+                "id": 24,
+                "data failure reason": "False positive prediction, no corresponding annotation found with iou 0.18 and hausdorff distance 317.23",
+                "issue_image": "test_cases/RoboFlowSyntheticData/DetR-large-scale.coco-segmentation/Saint Pine/DataValidationResultWithBestExemplar/sam3_fp_issue_wire_24.jpg"
+            }
+        ],
+        "fn list": [],
+        "grid_partition_num": 6,
+        "ga_bins_used": 6,
+        "partition_efficiency_score": 1.0
+    },
+    "DetR-large-scale.coco-segmentation/Lake Spring": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "tp": 8,
+        "tn": 20,
+        "fp": 0,
+        "fn": 0,
+        "fp list": [],
+        "fn list": [],
+        "grid_partition_num": 4,
+        "ga_bins_used": 3,
+        "partition_efficiency_score": 1.3333333333333333
+    },
+    "fariq-generalize-dos.coco-segmentation/East Lakeville": {
+        "precision": 0.9583333333333334,
+        "recall": 1.0,
+        "tp": 23,
+        "tn": 16,
+        "fp": 1,
+        "fn": 0,
+        "fp list": [
+            {
+                "id": 39,
+                "data failure reason": "False positive prediction, no corresponding annotation found with iou 0.57 and hausdorff distance 130.59",
+                "issue_image": "test_cases/RoboFlowSyntheticData/fariq-generalize-dos.coco-segmentation/East Lakeville/DataValidationResultWithBestExemplar/sam3_fp_issue_wire_39.jpg"
+            }
+        ],
+        "fn list": [],
+        "grid_partition_num": 4,
+        "ga_bins_used": 5,
+        "partition_efficiency_score": 0.8
+    },
+    "DOS-semicon.coco-segmentation/Santa Fairport": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "tp": 9,
+        "tn": 13,
+        "fp": 0,
+        "fn": 0,
+        "fp list": [],
+        "fn list": [],
+        "grid_partition_num": 6,
+        "ga_bins_used": 2,
+        "partition_efficiency_score": 3.0
+    },
+    "DetR-large-scale.coco-segmentation/Santa Goldmount": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "tp": 9,
+        "tn": 15,
+        "fp": 0,
+        "fn": 0,
+        "fp list": [],
+        "fn list": [],
+        "grid_partition_num": 4,
+        "ga_bins_used": 2,
+        "partition_efficiency_score": 2.0
+    },
+    "fariq-generalize-dos.coco-segmentation/Saint Goldport": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "tp": 11,
+        "tn": 17,
+        "fp": 0,
+        "fn": 0,
+        "fp list": [],
+        "fn list": [],
+        "grid_partition_num": 6,
+        "ga_bins_used": 5,
+        "partition_efficiency_score": 1.2
+    },
+    "DetR-large-scale.coco-segmentation/West Cedarland": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "tp": 4,
+        "tn": 4,
+        "fp": 0,
+        "fn": 0,
+        "fp list": [],
+        "fn list": [],
+        "grid_partition_num": 4,
+        "ga_bins_used": 1,
+        "partition_efficiency_score": 4.0
+    },
+    "DOS-semicon.coco-segmentation/Old Brookview": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "tp": 4,
+        "tn": 4,
+        "fp": 0,
+        "fn": 0,
+        "fp list": [],
+        "fn list": [],
+        "grid_partition_num": 6,
+        "ga_bins_used": 1,
+        "partition_efficiency_score": 6.0
+    },
+    "DetR-large-scale.coco-segmentation/Rock Boro": {
+        "precision": 0.8947368421052632,
+        "recall": 0.9444444444444444,
+        "tp": 17,
+        "tn": 20,
+        "fp": 2,
+        "fn": 1,
+        "fp list": [
+            {
+                "id": 18,
+                "data failure reason": "False positive prediction, no corresponding annotation found with iou 0.76 and hausdorff distance 78.23",
+                "issue_image": "test_cases/RoboFlowSyntheticData/DetR-large-scale.coco-segmentation/Rock Boro/DataValidationResultWithBestExemplar/sam3_fp_issue_wire_18.jpg"
+            },
+            {
+                "id": 19,
+                "data failure reason": "False positive prediction, no corresponding annotation found with iou 0.78 and hausdorff distance 64.20",
+                "issue_image": "test_cases/RoboFlowSyntheticData/DetR-large-scale.coco-segmentation/Rock Boro/DataValidationResultWithBestExemplar/sam3_fp_issue_wire_19.jpg"
+            }
+        ],
+        "fn list": [
+            {
+                "id": 20,
+                "data failure reason": "False negative prediction, no corresponding annotation found with iou 0.77 and hausdorff distance 87.80",
+                "issue_image": "test_cases/RoboFlowSyntheticData/DetR-large-scale.coco-segmentation/Rock Boro/DataValidationResultWithBestExemplar/sam3_fn_issue_wire_20.jpg"
+            }
+        ],
+        "grid_partition_num": 4,
+        "ga_bins_used": 5,
+        "partition_efficiency_score": 0.8
+    },
+    "DetR-large-scale.coco-segmentation/Brook Ridge": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "tp": 11,
+        "tn": 29,
+        "fp": 0,
+        "fn": 0,
+        "fp list": [],
+        "fn list": [],
+        "grid_partition_num": 4,
+        "ga_bins_used": 5,
+        "partition_efficiency_score": 0.8
+    },
+    "fariq-generalize-dos.coco-segmentation/Mount Clearford": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "tp": 16,
+        "tn": 12,
+        "fp": 0,
+        "fn": 0,
+        "fp list": [],
+        "fn list": [],
+        "grid_partition_num": 6,
+        "ga_bins_used": 5,
+        "partition_efficiency_score": 1.2
+    },
+    "DOS-semicon.coco-segmentation/Pine Fair": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "tp": 2,
+        "tn": 6,
+        "fp": 0,
+        "fn": 0,
+        "fp list": [],
+        "fn list": [],
+        "grid_partition_num": 4,
+        "ga_bins_used": 1,
+        "partition_efficiency_score": 4.0
+    },
+    "DetR-large-scale.coco-segmentation/Brook Fair": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "tp": 11,
+        "tn": 13,
+        "fp": 0,
+        "fn": 0,
+        "fp list": [],
+        "fn list": [],
+        "grid_partition_num": 12,
+        "ga_bins_used": 6,
+        "partition_efficiency_score": 2.0
+    },
+    "DetR-large-scale.coco-segmentation/Rock Green": {
+        "precision": 0.9019607843137255,
+        "recall": 1.0,
+        "tp": 46,
+        "tn": 77,
+        "fp": 5,
+        "fn": 0,
+        "fp list": [
+            {
+                "id": 11,
+                "data failure reason": "False positive prediction, no corresponding annotation found with iou 0.68 and hausdorff distance 156.92",
+                "issue_image": "test_cases/RoboFlowSyntheticData/DetR-large-scale.coco-segmentation/Rock Green/DataValidationResultWithBestExemplar/sam3_fp_issue_wire_11.jpg"
+            },
+            {
+                "id": 41,
+                "data failure reason": "False positive prediction, no corresponding annotation found with iou 0.89 and hausdorff distance 42.58",
+                "issue_image": "test_cases/RoboFlowSyntheticData/DetR-large-scale.coco-segmentation/Rock Green/DataValidationResultWithBestExemplar/sam3_fp_issue_wire_41.jpg"
+            },
+            {
+                "id": 101,
+                "data failure reason": "False positive prediction, no corresponding annotation found with iou 0.04 and hausdorff distance 192.42",
+                "issue_image": "test_cases/RoboFlowSyntheticData/DetR-large-scale.coco-segmentation/Rock Green/DataValidationResultWithBestExemplar/sam3_fp_issue_wire_101.jpg"
+            },
+            {
+                "id": 102,
+                "data failure reason": "False positive prediction, no corresponding annotation found with iou 0.74 and hausdorff distance 39.20",
+                "issue_image": "test_cases/RoboFlowSyntheticData/DetR-large-scale.coco-segmentation/Rock Green/DataValidationResultWithBestExemplar/sam3_fp_issue_wire_102.jpg"
+            },
+            {
+                "id": 112,
+                "data failure reason": "False positive prediction, no corresponding annotation found with iou 0.71 and hausdorff distance 93.19",
+                "issue_image": "test_cases/RoboFlowSyntheticData/DetR-large-scale.coco-segmentation/Rock Green/DataValidationResultWithBestExemplar/sam3_fp_issue_wire_112.jpg"
+            }
+        ],
+        "fn list": [],
+        "grid_partition_num": 9,
+        "ga_bins_used": 7,
+        "partition_efficiency_score": 1.2857142857142858
+    },
+    "UNISEM-ZN1461.coco-segmentation/Santa Clearshire": {
+        "precision": 1.0,
+        "recall": 0.9166666666666666,
+        "tp": 11,
+        "tn": 14,
+        "fp": 0,
+        "fn": 1,
+        "fp list": [],
+        "fn list": [
+            {
+                "id": 23,
+                "data failure reason": "False negative prediction, no corresponding annotation found with iou 0.10 and hausdorff distance 360.46",
+                "issue_image": "test_cases/RoboFlowSyntheticData/UNISEM-ZN1461.coco-segmentation/Santa Clearshire/DataValidationResultWithBestExemplar/sam3_fn_issue_wire_23.jpg"
+            }
+        ],
+        "grid_partition_num": 16,
+        "ga_bins_used": 6,
+        "partition_efficiency_score": 2.6666666666666665
+    },
+    "UNISEM-ZN1461.coco-segmentation/San Valleyland": {
+        "precision": 0.9166666666666666,
+        "recall": 1.0,
+        "tp": 11,
+        "tn": 13,
+        "fp": 1,
+        "fn": 0,
+        "fp list": [
+            {
+                "id": 5,
+                "data failure reason": "False positive prediction, no corresponding annotation found with iou 0.72 and hausdorff distance 57.87",
+                "issue_image": "test_cases/RoboFlowSyntheticData/UNISEM-ZN1461.coco-segmentation/San Valleyland/DataValidationResultWithBestExemplar/sam3_fp_issue_wire_5.jpg"
+            }
+        ],
+        "fn list": [],
+        "grid_partition_num": 9,
+        "ga_bins_used": 5,
+        "partition_efficiency_score": 1.8
+    },
+    "UNISEM-ZN1461.coco-segmentation/South Ridgeheights": {
+        "precision": 0.9411764705882353,
+        "recall": 1.0,
+        "tp": 16,
+        "tn": 7,
+        "fp": 1,
+        "fn": 0,
+        "fp list": [
+            {
+                "id": 2,
+                "data failure reason": "False positive prediction, no corresponding annotation found with iou 0.77 and hausdorff distance 81.93",
+                "issue_image": "test_cases/RoboFlowSyntheticData/UNISEM-ZN1461.coco-segmentation/South Ridgeheights/DataValidationResultWithBestExemplar/sam3_fp_issue_wire_2.jpg"
+            }
+        ],
+        "fn list": [],
+        "grid_partition_num": 16,
+        "ga_bins_used": 6,
+        "partition_efficiency_score": 2.6666666666666665
+    },
+    "DOS-semicon.coco-segmentation/East Ridgeheights": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "tp": 3,
+        "tn": 5,
+        "fp": 0,
+        "fn": 0,
+        "fp list": [],
+        "fn list": [],
+        "grid_partition_num": 4,
+        "ga_bins_used": 1,
+        "partition_efficiency_score": 4.0
+    },
+    "DetR-large-scale.coco-segmentation/Oak Port": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "tp": 9,
+        "tn": 13,
+        "fp": 0,
+        "fn": 0,
+        "fp list": [],
+        "fn list": [],
+        "grid_partition_num": 6,
+        "ga_bins_used": 2,
+        "partition_efficiency_score": 3.0
+    },
+    "fariq-generalize-dos.coco-segmentation/Saint Brookville": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "tp": 15,
+        "tn": 15,
+        "fp": 0,
+        "fn": 0,
+        "fp list": [],
+        "fn list": [],
+        "grid_partition_num": 4,
+        "ga_bins_used": 3,
+        "partition_efficiency_score": 1.3333333333333333
+    },
+    "DetR-large-scale.coco-segmentation/South Greenport": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "tp": 12,
+        "tn": 13,
+        "fp": 0,
+        "fn": 0,
+        "fp list": [],
+        "fn list": [],
+        "grid_partition_num": 6,
+        "ga_bins_used": 6,
+        "partition_efficiency_score": 1.0
+    },
+    "DOS-semicon.coco-segmentation/Spring Brook": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "tp": 9,
+        "tn": 13,
+        "fp": 0,
+        "fn": 0,
+        "fp list": [],
+        "fn list": [],
+        "grid_partition_num": 6,
+        "ga_bins_used": 2,
+        "partition_efficiency_score": 3.0
+    },
+    "DetR-large-scale.coco-segmentation/Grand Rockland": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "tp": 10,
+        "tn": 14,
+        "fp": 0,
+        "fn": 0,
+        "fp list": [],
+        "fn list": [],
+        "grid_partition_num": 6,
+        "ga_bins_used": 5,
+        "partition_efficiency_score": 1.2
+    },
+    "fariq-generalize-dos.coco-segmentation/New Goldfield": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "tp": 0,
+        "tn": 6,
+        "fp": 1,
+        "fn": 0,
+        "fp list": [
+            {
+                "id": 5,
+                "data failure reason": "False positive prediction, no corresponding annotation found with iou 0.67 and hausdorff distance 36.62",
+                "issue_image": "test_cases/RoboFlowSyntheticData/fariq-generalize-dos.coco-segmentation/New Goldfield/DataValidationResultWithBestExemplar/sam3_fp_issue_wire_5.jpg"
+            }
+        ],
+        "fn list": [],
+        "grid_partition_num": 4,
+        "ga_bins_used": 3,
+        "partition_efficiency_score": 1.3333333333333333
+    },
+    "DOS-semicon.coco-segmentation/Port Lakefield": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "tp": 8,
+        "tn": 14,
+        "fp": 0,
+        "fn": 0,
+        "fp list": [],
+        "fn list": [],
+        "grid_partition_num": 6,
+        "ga_bins_used": 2,
+        "partition_efficiency_score": 3.0
+    },
+    "UNISEM-ZN1461.coco-segmentation/Cedar Ridge": {
+        "precision": 1.0,
+        "recall": 0.8,
+        "tp": 4,
+        "tn": 19,
+        "fp": 0,
+        "fn": 1,
+        "fp list": [],
+        "fn list": [
+            {
+                "id": 2,
+                "data failure reason": "False negative prediction, no corresponding annotation found with iou 0.72 and hausdorff distance 72.80",
+                "issue_image": "test_cases/RoboFlowSyntheticData/UNISEM-ZN1461.coco-segmentation/Cedar Ridge/DataValidationResultWithBestExemplar/sam3_fn_issue_wire_2.jpg"
+            }
+        ],
+        "grid_partition_num": 9,
+        "ga_bins_used": 5,
+        "partition_efficiency_score": 1.8
+    },
+    "DetR-large-scale.coco-segmentation/Stone Ridge": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "tp": 8,
+        "tn": 16,
+        "fp": 0,
+        "fn": 0,
+        "fp list": [],
+        "fn list": [],
+        "grid_partition_num": 6,
+        "ga_bins_used": 5,
+        "partition_efficiency_score": 1.2
+    },
+    "UNISEM-ZN1461.coco-segmentation/San Millboro": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "tp": 8,
+        "tn": 16,
+        "fp": 0,
+        "fn": 0,
+        "fp list": [],
+        "fn list": [],
+        "grid_partition_num": 9,
+        "ga_bins_used": 5,
+        "partition_efficiency_score": 1.8
+    },
+    "DetR-large-scale.coco-segmentation/Mill Cedar": {
+        "precision": 1.0,
+        "recall": 0.8333333333333334,
+        "tp": 5,
+        "tn": 17,
+        "fp": 0,
+        "fn": 1,
+        "fp list": [],
+        "fn list": [
+            {
+                "id": 6,
+                "data failure reason": "False negative prediction, no corresponding annotation found with iou 0.83 and hausdorff distance 94.26",
+                "issue_image": "test_cases/RoboFlowSyntheticData/DetR-large-scale.coco-segmentation/Mill Cedar/DataValidationResultWithBestExemplar/sam3_fn_issue_wire_6.jpg"
+            }
+        ],
+        "grid_partition_num": 12,
+        "ga_bins_used": 6,
+        "partition_efficiency_score": 2.0
+    },
+    "DetR-large-scale.coco-segmentation/Brook Pine": {
+        "precision": 0.9090909090909091,
+        "recall": 0.9090909090909091,
+        "tp": 10,
+        "tn": 12,
+        "fp": 1,
+        "fn": 1,
+        "fp list": [
+            {
+                "id": 15,
+                "data failure reason": "False positive prediction, no corresponding annotation found with iou 0.83 and hausdorff distance 60.73",
+                "issue_image": "test_cases/RoboFlowSyntheticData/DetR-large-scale.coco-segmentation/Brook Pine/DataValidationResultWithBestExemplar/sam3_fp_issue_wire_15.jpg"
+            }
+        ],
+        "fn list": [
+            {
+                "id": 13,
+                "data failure reason": "False negative prediction, no corresponding annotation found with iou 0.80 and hausdorff distance 38.95",
+                "issue_image": "test_cases/RoboFlowSyntheticData/DetR-large-scale.coco-segmentation/Brook Pine/DataValidationResultWithBestExemplar/sam3_fn_issue_wire_13.jpg"
+            }
+        ],
+        "grid_partition_num": 4,
+        "ga_bins_used": 3,
+        "partition_efficiency_score": 1.3333333333333333
+    },
+    "DetR-large-scale.coco-segmentation/Saint Milldale": {
+        "precision": 1.0,
+        "recall": 0.9090909090909091,
+        "tp": 10,
+        "tn": 11,
+        "fp": 0,
+        "fn": 1,
+        "fp list": [],
+        "fn list": [
+            {
+                "id": 21,
+                "data failure reason": "False negative prediction, no corresponding annotation found with iou 0.00 and hausdorff distance 353.00",
+                "issue_image": "test_cases/RoboFlowSyntheticData/DetR-large-scale.coco-segmentation/Saint Milldale/DataValidationResultWithBestExemplar/sam3_fn_issue_wire_21.jpg"
+            }
+        ],
+        "grid_partition_num": 4,
+        "ga_bins_used": 4,
+        "partition_efficiency_score": 1.0
+    },
+    "DOS-semicon.coco-segmentation/New Brook": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "tp": 9,
+        "tn": 13,
+        "fp": 0,
+        "fn": 0,
+        "fp list": [],
+        "fn list": [],
+        "grid_partition_num": 6,
+        "ga_bins_used": 2,
+        "partition_efficiency_score": 3.0
+    },
+    "DetR-large-scale.coco-segmentation/Fort Lake": {
+        "precision": 0.9166666666666666,
+        "recall": 1.0,
+        "tp": 11,
+        "tn": 12,
+        "fp": 1,
+        "fn": 0,
+        "fp list": [
+            {
+                "id": 2,
+                "data failure reason": "False positive prediction, no corresponding annotation found with iou 0.73 and hausdorff distance 65.79",
+                "issue_image": "test_cases/RoboFlowSyntheticData/DetR-large-scale.coco-segmentation/Fort Lake/DataValidationResultWithBestExemplar/sam3_fp_issue_wire_2.jpg"
+            }
+        ],
+        "fn list": [],
+        "grid_partition_num": 12,
+        "ga_bins_used": 6,
+        "partition_efficiency_score": 2.0
+    },
+    "DetR-large-scale.coco-segmentation/East Pinedale": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "tp": 9,
+        "tn": 15,
+        "fp": 0,
+        "fn": 0,
+        "fp list": [],
+        "fn list": [],
+        "grid_partition_num": 9,
+        "ga_bins_used": 5,
+        "partition_efficiency_score": 1.8
+    },
+    "DOS-semicon.coco-segmentation/Lake Silvercrest": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "tp": 3,
+        "tn": 5,
+        "fp": 0,
+        "fn": 0,
+        "fp list": [],
+        "fn list": [],
+        "grid_partition_num": 4,
+        "ga_bins_used": 1,
+        "partition_efficiency_score": 4.0
+    },
+    "fariq-generalize-dos.coco-segmentation/Pine Wood": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "tp": 3,
+        "tn": 5,
+        "fp": 0,
+        "fn": 0,
+        "fp list": [],
+        "fn list": [],
+        "grid_partition_num": 4,
+        "ga_bins_used": 1,
+        "partition_efficiency_score": 4.0
+    },
+    "DetR-large-scale.coco-segmentation/Fort Rockville": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "tp": 9,
+        "tn": 13,
+        "fp": 0,
+        "fn": 0,
+        "fp list": [],
+        "fn list": [],
+        "grid_partition_num": 6,
+        "ga_bins_used": 2,
+        "partition_efficiency_score": 3.0
+    },
+    "DOS-semicon.coco-segmentation/Glen Millport": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "tp": 4,
+        "tn": 4,
+        "fp": 0,
+        "fn": 0,
+        "fp list": [],
+        "fn list": [],
+        "grid_partition_num": 4,
+        "ga_bins_used": 1,
+        "partition_efficiency_score": 4.0
+    },
+    "UNISEM-ZN1461.coco-segmentation/East Clearstead": {
+        "precision": 1.0,
+        "recall": 0.8888888888888888,
+        "tp": 8,
+        "tn": 16,
+        "fp": 0,
+        "fn": 1,
+        "fp list": [],
+        "fn list": [
+            {
+                "id": 23,
+                "data failure reason": "False negative prediction, no corresponding annotation found with iou 0.14 and hausdorff distance 291.68",
+                "issue_image": "test_cases/RoboFlowSyntheticData/UNISEM-ZN1461.coco-segmentation/East Clearstead/DataValidationResultWithBestExemplar/sam3_fn_issue_wire_23.jpg"
+            }
+        ],
+        "grid_partition_num": 9,
+        "ga_bins_used": 6,
+        "partition_efficiency_score": 1.5
+    },
+    "DetR-large-scale.coco-segmentation/Santa Ridgedale": {
+        "precision": 0.8571428571428571,
+        "recall": 1.0,
+        "tp": 6,
+        "tn": 17,
+        "fp": 1,
+        "fn": 0,
+        "fp list": [
+            {
+                "id": 23,
+                "data failure reason": "False positive prediction, no corresponding annotation found with iou 0.54 and hausdorff distance 48.75",
+                "issue_image": "test_cases/RoboFlowSyntheticData/DetR-large-scale.coco-segmentation/Santa Ridgedale/DataValidationResultWithBestExemplar/sam3_fp_issue_wire_23.jpg"
+            }
+        ],
+        "fn list": [],
+        "grid_partition_num": 6,
+        "ga_bins_used": 5,
+        "partition_efficiency_score": 1.2
+    },
+    "DetR-large-scale.coco-segmentation/Oak Marsh": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "tp": 7,
+        "tn": 17,
+        "fp": 0,
+        "fn": 0,
+        "fp list": [],
+        "fn list": [],
+        "grid_partition_num": 12,
+        "ga_bins_used": 7,
+        "partition_efficiency_score": 1.7142857142857142
+    },
+    "DOS-semicon.coco-segmentation/Lake Heights": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "tp": 7,
+        "tn": 1,
+        "fp": 0,
+        "fn": 0,
+        "fp list": [],
+        "fn list": [],
+        "grid_partition_num": 12,
+        "ga_bins_used": 4,
+        "partition_efficiency_score": 3.0
+    },
+    "DetR-large-scale.coco-segmentation/Fort Brookshire": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "tp": 13,
+        "tn": 15,
+        "fp": 0,
+        "fn": 0,
+        "fp list": [],
+        "fn list": [],
+        "grid_partition_num": 6,
+        "ga_bins_used": 5,
+        "partition_efficiency_score": 1.2
+    },
+    "UNISEM-ZN1461.coco-segmentation/San Stoneboro": {
+        "precision": 0.9166666666666666,
+        "recall": 1.0,
+        "tp": 11,
+        "tn": 12,
+        "fp": 1,
+        "fn": 0,
+        "fp list": [
+            {
+                "id": 8,
+                "data failure reason": "False positive prediction, no corresponding annotation found with iou 0.85 and hausdorff distance 54.56",
+                "issue_image": "test_cases/RoboFlowSyntheticData/UNISEM-ZN1461.coco-segmentation/San Stoneboro/DataValidationResultWithBestExemplar/sam3_fp_issue_wire_8.jpg"
+            }
+        ],
+        "fn list": [],
+        "grid_partition_num": 16,
+        "ga_bins_used": 6,
+        "partition_efficiency_score": 2.6666666666666665
+    },
+    "DetR-large-scale.coco-segmentation/Fort Valleyjunction": {
+        "precision": 1.0,
+        "recall": 0.9583333333333334,
+        "tp": 23,
+        "tn": 0,
+        "fp": 0,
+        "fn": 1,
+        "fp list": [],
+        "fn list": [
+            {
+                "id": 2,
+                "data failure reason": "False negative prediction, no corresponding annotation found with iou 0.69 and hausdorff distance 68.94",
+                "issue_image": "test_cases/RoboFlowSyntheticData/DetR-large-scale.coco-segmentation/Fort Valleyjunction/DataValidationResultWithBestExemplar/sam3_fn_issue_wire_2.jpg"
+            }
+        ],
+        "grid_partition_num": 9,
+        "ga_bins_used": 5,
+        "partition_efficiency_score": 1.8
+    },
+    "fariq-generalize-dos.coco-segmentation/Santa Silverjunction": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "tp": 11,
+        "tn": 11,
+        "fp": 0,
+        "fn": 0,
+        "fp list": [],
+        "fn list": [],
+        "grid_partition_num": 2,
+        "ga_bins_used": 1,
+        "partition_efficiency_score": 2.0
+    },
+    "DOS-semicon.coco-segmentation/San Springland": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "tp": 3,
+        "tn": 5,
+        "fp": 0,
+        "fn": 0,
+        "fp list": [],
+        "fn list": [],
+        "grid_partition_num": 6,
+        "ga_bins_used": 1,
+        "partition_efficiency_score": 6.0
+    },
+    "DOS-semicon.coco-segmentation/Grand Rockburg": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "tp": 7,
+        "tn": 15,
+        "fp": 0,
+        "fn": 0,
+        "fp list": [],
+        "fn list": [],
+        "grid_partition_num": 4,
+        "ga_bins_used": 2,
+        "partition_efficiency_score": 2.0
+    },
+    "DetR-large-scale.coco-segmentation/South Greenheights": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "tp": 7,
+        "tn": 17,
+        "fp": 0,
+        "fn": 0,
+        "fp list": [],
+        "fn list": [],
+        "grid_partition_num": 9,
+        "ga_bins_used": 5,
+        "partition_efficiency_score": 1.8
+    },
+    "DetR-large-scale.coco-segmentation/River Greenmount": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "tp": 8,
+        "tn": 22,
+        "fp": 0,
+        "fn": 0,
+        "fp list": [],
+        "fn list": [],
+        "grid_partition_num": 4,
+        "ga_bins_used": 3,
+        "partition_efficiency_score": 1.3333333333333333
+    },
+    "DetR-large-scale.coco-segmentation/Saint Valley": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "tp": 10,
+        "tn": 12,
+        "fp": 0,
+        "fn": 0,
+        "fp list": [],
+        "fn list": [],
+        "grid_partition_num": 6,
+        "ga_bins_used": 2,
+        "partition_efficiency_score": 3.0
+    },
+    "DOS-semicon.coco-segmentation/South Fairland": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "tp": 2,
+        "tn": 6,
+        "fp": 0,
+        "fn": 0,
+        "fp list": [],
+        "fn list": [],
+        "grid_partition_num": 4,
+        "ga_bins_used": 1,
+        "partition_efficiency_score": 4.0
+    },
+    "fariq-generalize-dos.coco-segmentation/South Fairford": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "tp": 8,
+        "tn": 17,
+        "fp": 0,
+        "fn": 0,
+        "fp list": [],
+        "fn list": [],
+        "grid_partition_num": 6,
+        "ga_bins_used": 6,
+        "partition_efficiency_score": 1.0
+    },
+    "DOS-semicon.coco-segmentation/Oak Crest": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "tp": 0,
+        "tn": 8,
+        "fp": 0,
+        "fn": 0,
+        "fp list": [],
+        "fn list": [],
+        "grid_partition_num": 4,
+        "ga_bins_used": 1,
+        "partition_efficiency_score": 4.0
+    },
+    "DetR-large-scale.coco-segmentation/Valley Mill": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "tp": 9,
+        "tn": 16,
+        "fp": 0,
+        "fn": 0,
+        "fp list": [],
+        "fn list": [],
+        "grid_partition_num": 9,
+        "ga_bins_used": 5,
+        "partition_efficiency_score": 1.8
+    },
+    "fariq-generalize-dos.coco-segmentation/San Ridge": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "tp": 11,
+        "tn": 11,
+        "fp": 0,
+        "fn": 0,
+        "fp list": [],
+        "fn list": [],
+        "grid_partition_num": 6,
+        "ga_bins_used": 2,
+        "partition_efficiency_score": 3.0
+    },
+    "DetR-large-scale.coco-segmentation/Lake Fairshire": {
+        "precision": 0.875,
+        "recall": 1.0,
+        "tp": 7,
+        "tn": 16,
+        "fp": 1,
+        "fn": 0,
+        "fp list": [
+            {
+                "id": 6,
+                "data failure reason": "False positive prediction, no corresponding annotation found with iou 0.73 and hausdorff distance 109.07",
+                "issue_image": "test_cases/RoboFlowSyntheticData/DetR-large-scale.coco-segmentation/Lake Fairshire/DataValidationResultWithBestExemplar/sam3_fp_issue_wire_6.jpg"
+            }
+        ],
+        "fn list": [],
+        "grid_partition_num": 12,
+        "ga_bins_used": 6,
+        "partition_efficiency_score": 2.0
+    },
+    "UNISEM-ZN1461.coco-segmentation/Mount Brookheights": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "tp": 8,
+        "tn": 16,
+        "fp": 0,
+        "fn": 0,
+        "fp list": [],
+        "fn list": [],
+        "grid_partition_num": 16,
+        "ga_bins_used": 7,
+        "partition_efficiency_score": 2.2857142857142856
+    },
+    "DetR-large-scale.coco-segmentation/Saint Oakdale": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "tp": 2,
+        "tn": 5,
+        "fp": 0,
+        "fn": 0,
+        "fp list": [],
+        "fn list": [],
+        "grid_partition_num": 4,
+        "ga_bins_used": 3,
+        "partition_efficiency_score": 1.3333333333333333
+    },
+    "DetR-large-scale.coco-segmentation/North Fairton": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "tp": 4,
+        "tn": 6,
+        "fp": 0,
+        "fn": 0,
+        "fp list": [],
+        "fn list": [],
+        "grid_partition_num": 6,
+        "ga_bins_used": 3,
+        "partition_efficiency_score": 2.0
+    },
+    "fariq-generalize-dos.coco-segmentation/Lake Stoneford": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "tp": 2,
+        "tn": 6,
+        "fp": 0,
+        "fn": 0,
+        "fp list": [],
+        "fn list": [],
+        "grid_partition_num": 4,
+        "ga_bins_used": 4,
+        "partition_efficiency_score": 1.0
+    },
+    "DOS-semicon.coco-segmentation/Lake Crest": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "tp": 13,
+        "tn": 17,
+        "fp": 0,
+        "fn": 0,
+        "fp list": [],
+        "fn list": [],
+        "grid_partition_num": 12,
+        "ga_bins_used": 3,
+        "partition_efficiency_score": 4.0
+    },
+    "DetR-large-scale.coco-segmentation/Ridge Heights": {
+        "precision": 0.9090909090909091,
+        "recall": 1.0,
+        "tp": 10,
+        "tn": 12,
+        "fp": 1,
+        "fn": 0,
+        "fp list": [
+            {
+                "id": 19,
+                "data failure reason": "False positive prediction, no corresponding annotation found with iou 0.65 and hausdorff distance 107.12",
+                "issue_image": "test_cases/RoboFlowSyntheticData/DetR-large-scale.coco-segmentation/Ridge Heights/DataValidationResultWithBestExemplar/sam3_fp_issue_wire_19.jpg"
+            }
+        ],
+        "fn list": [],
+        "grid_partition_num": 12,
+        "ga_bins_used": 6,
+        "partition_efficiency_score": 2.0
+    },
+    "DetR-large-scale.coco-segmentation/Grand Pinecrest": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "tp": 11,
+        "tn": 17,
+        "fp": 0,
+        "fn": 0,
+        "fp list": [],
+        "fn list": [],
+        "grid_partition_num": 6,
+        "ga_bins_used": 5,
+        "partition_efficiency_score": 1.2
+    },
+    "UNISEM-ZN1461.coco-segmentation/New Marshfalls": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "tp": 7,
+        "tn": 17,
+        "fp": 0,
+        "fn": 0,
+        "fp list": [],
+        "fn list": [],
+        "grid_partition_num": 9,
+        "ga_bins_used": 5,
+        "partition_efficiency_score": 1.8
+    },
+    "fariq-generalize-dos.coco-segmentation/Lake Pineboro": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "tp": 11,
+        "tn": 0,
+        "fp": 0,
+        "fn": 0,
+        "fp list": [],
+        "fn list": [],
+        "grid_partition_num": 4,
+        "ga_bins_used": 3,
+        "partition_efficiency_score": 1.3333333333333333
+    }
+}

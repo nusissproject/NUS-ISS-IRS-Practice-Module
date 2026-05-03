@@ -1,0 +1,25 @@
+model_cfg_path: "checkpoints/finetuned/sam3_ft.pt"                # Path to model configuration file (refer to GAA convention)
+target_wire_width: 12.0
+prediction_score_threshold: 0.7
+boundary_mask_tolerance: 2.0                   # Tolerance in pixels for generating boundary mask, can be adjusted based on actual use case, larger value will result in thicker boundary mask, smaller value will result in thinner boundary mask.
+iou_score_threshold: 0.5              # IoU score threshold for reporting low quality annotation
+hausdorff_distance_threshold: 30.0    # Hausdorff distance threshold for reporting low quality annotation
+iou_low_quality_threshold: 0.8
+labels:                                 # List of labels to be processed, can be adjusted based on actual use case
+  - wire
+labels_max_position_shift: # same length as labels
+  - 20.0
+image_list:
+  - image.jpg
+frame_roi: [0,0,5119,5119]  
+exemplar_roi_expansion: 5 # Number of pixels to expand the exemplar ROI, can be adjusted based on actual use case, larger value will include more context around the exemplar, smaller value will focus more on the exemplar itself. 
+naive_partition_overlap: 0.1
+enable_merge_after_partition: True # Merge the partitions to reduce the number of inference time
+partition_merge_gap: 5.0 # Maximum gap in pixels to merge two partitions, can be adjusted based on actual use case, larger value will result in more partitions being merged, smaller value will result in fewer partitions being merged.
+contour_approximation_epsilon: 3.0 # Epsilon value for contour approximation, can be adjusted based on actual use case, smaller value will result in more detailed polygon, larger value will result in simpler polygon.
+merge_mask_flag: True # Merge boundary mask into the original mask for evaluation, can be set to False to keep them separate. If set to True, the boundary mask will be merged into the original mask with a new label value specified by "merge_boundary_label_value".
+merge_mask_min_overlap_area: 50
+merge_mask_min_iou: 0.8
+merge_mask_min_partial_overlapping_ratio: 0.8
+decision_tree_model_path: "config/decision_tree_model.pkl" # Path to save the trained decision tree model, can be adjusted based on actual use case.
+

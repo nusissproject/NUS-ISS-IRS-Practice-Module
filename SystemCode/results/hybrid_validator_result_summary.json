@@ -1,0 +1,1089 @@
+{
+    "DetR-large-scale.coco-segmentation/Stone Valley": {
+        "precision": 0.8999999991,
+        "recall": 0.9999999988888888,
+        "tp": 9,
+        "tn": 13,
+        "fp": 1,
+        "fn": 0,
+        "fp list": [
+            {
+                "id": 7,
+                "data failure reason": "NA",
+                "issue_image": "test_cases/RoboFlowSyntheticData/DetR-large-scale.coco-segmentation/Stone Valley/HybridDataValidationResult/sam3_fp_issue_wire_7.jpg"
+            }
+        ],
+        "fn list": []
+    },
+    "DetR-large-scale.coco-segmentation/Green Cedar": {
+        "precision": 0.9999999987499999,
+        "recall": 0.9999999987499999,
+        "tp": 8,
+        "tn": 16,
+        "fp": 0,
+        "fn": 0,
+        "fp list": [],
+        "fn list": []
+    },
+    "DOS-semicon.coco-segmentation/Fair Mill": {
+        "precision": 0.9999999975,
+        "recall": 0.9999999975,
+        "tp": 4,
+        "tn": 4,
+        "fp": 0,
+        "fn": 0,
+        "fp list": [],
+        "fn list": []
+    },
+    "UNISEM-ZN1461.coco-segmentation/San Marshburg": {
+        "precision": 0.9999999987499999,
+        "recall": 0.9999999987499999,
+        "tp": 8,
+        "tn": 16,
+        "fp": 0,
+        "fn": 0,
+        "fp list": [],
+        "fn list": []
+    },
+    "fariq-generalize-dos.coco-segmentation/Grand Stone": {
+        "precision": 0.9999999988888888,
+        "recall": 0.9999999988888888,
+        "tp": 9,
+        "tn": 13,
+        "fp": 0,
+        "fn": 0,
+        "fp list": [],
+        "fn list": []
+    },
+    "DetR-large-scale.coco-segmentation/Saint Spring": {
+        "precision": 0.9999999995833333,
+        "recall": 0.9999999995833333,
+        "tp": 24,
+        "tn": 0,
+        "fp": 0,
+        "fn": 0,
+        "fp list": [],
+        "fn list": []
+    },
+    "DetR-large-scale.coco-segmentation/North Fairshire": {
+        "precision": 0.9999999992857143,
+        "recall": 0.9999999992857143,
+        "tp": 14,
+        "tn": 10,
+        "fp": 0,
+        "fn": 0,
+        "fp list": [],
+        "fn list": []
+    },
+    "DOS-semicon.coco-segmentation/Lake Clearland": {
+        "precision": 0.9999999989999999,
+        "recall": 0.9999999989999999,
+        "tp": 10,
+        "tn": 12,
+        "fp": 0,
+        "fn": 0,
+        "fp list": [],
+        "fn list": []
+    },
+    "fariq-generalize-dos.coco-segmentation/Silver Rock": {
+        "precision": 0.9999999989999999,
+        "recall": 0.9999999989999999,
+        "tp": 10,
+        "tn": 18,
+        "fp": 0,
+        "fn": 0,
+        "fp list": [],
+        "fn list": []
+    },
+    "DOS-semicon.coco-segmentation/Brook Spring": {
+        "precision": 0.9999999991666666,
+        "recall": 0.9999999991666666,
+        "tp": 12,
+        "tn": 10,
+        "fp": 0,
+        "fn": 0,
+        "fp list": [],
+        "fn list": []
+    },
+    "UNISEM-ZN1461.coco-segmentation/Grand Rockfield": {
+        "precision": 0.9999999989999999,
+        "recall": 0.9999999989999999,
+        "tp": 10,
+        "tn": 14,
+        "fp": 0,
+        "fn": 0,
+        "fp list": [],
+        "fn list": []
+    },
+    "DetR-large-scale.coco-segmentation/South Brookjunction": {
+        "precision": 0.6666666644444444,
+        "recall": 0.999999995,
+        "tp": 2,
+        "tn": 5,
+        "fp": 1,
+        "fn": 0,
+        "fp list": [
+            {
+                "id": 0,
+                "data failure reason": "NA",
+                "issue_image": "test_cases/RoboFlowSyntheticData/DetR-large-scale.coco-segmentation/South Brookjunction/HybridDataValidationResult/sam3_fp_issue_wire_0.jpg"
+            }
+        ],
+        "fn list": []
+    },
+    "DetR-large-scale.coco-segmentation/Saint Gold": {
+        "precision": 0.9999999995833333,
+        "recall": 0.9999999995833333,
+        "tp": 24,
+        "tn": 0,
+        "fp": 0,
+        "fn": 0,
+        "fp list": [],
+        "fn list": []
+    },
+    "DOS-semicon.coco-segmentation/Port Gold": {
+        "precision": 0.9999999966666667,
+        "recall": 0.9999999966666667,
+        "tp": 3,
+        "tn": 5,
+        "fp": 0,
+        "fn": 0,
+        "fp list": [],
+        "fn list": []
+    },
+    "UNISEM-ZN1461.coco-segmentation/West Greenford": {
+        "precision": 0.9999999989999999,
+        "recall": 0.9999999989999999,
+        "tp": 10,
+        "tn": 14,
+        "fp": 0,
+        "fn": 0,
+        "fp list": [],
+        "fn list": []
+    },
+    "UNISEM-ZN1461.coco-segmentation/Lake Cedarview": {
+        "precision": 0.8888888879012344,
+        "recall": 0.9999999987499999,
+        "tp": 8,
+        "tn": 15,
+        "fp": 1,
+        "fn": 0,
+        "fp list": [
+            {
+                "id": 4,
+                "data failure reason": "NA",
+                "issue_image": "test_cases/RoboFlowSyntheticData/UNISEM-ZN1461.coco-segmentation/Lake Cedarview/HybridDataValidationResult/sam3_fp_issue_wire_4.jpg"
+            }
+        ],
+        "fn list": []
+    },
+    "DetR-large-scale.coco-segmentation/Grand Clearford": {
+        "precision": 0.9999999992307692,
+        "recall": 0.9999999992307692,
+        "tp": 13,
+        "tn": 13,
+        "fp": 0,
+        "fn": 0,
+        "fp list": [],
+        "fn list": []
+    },
+    "UNISEM-ZN1461.coco-segmentation/New Green": {
+        "precision": 0.9230769223668639,
+        "recall": 0.9999999991666666,
+        "tp": 12,
+        "tn": 12,
+        "fp": 1,
+        "fn": 0,
+        "fp list": [
+            {
+                "id": 24,
+                "data failure reason": "NA",
+                "issue_image": "test_cases/RoboFlowSyntheticData/UNISEM-ZN1461.coco-segmentation/New Green/HybridDataValidationResult/sam3_fp_issue_wire_24.jpg"
+            }
+        ],
+        "fn list": []
+    },
+    "fariq-generalize-dos.coco-segmentation/Port Clearland": {
+        "precision": 0.9999999975,
+        "recall": 0.9999999975,
+        "tp": 4,
+        "tn": 4,
+        "fp": 0,
+        "fn": 0,
+        "fp list": [],
+        "fn list": []
+    },
+    "DetR-large-scale.coco-segmentation/San Ridgedale": {
+        "precision": 0.944444443919753,
+        "recall": 0.944444443919753,
+        "tp": 17,
+        "tn": 20,
+        "fp": 1,
+        "fn": 1,
+        "fp list": [
+            {
+                "id": 1,
+                "data failure reason": "NA",
+                "issue_image": "test_cases/RoboFlowSyntheticData/DetR-large-scale.coco-segmentation/San Ridgedale/HybridDataValidationResult/sam3_fp_issue_wire_1.jpg"
+            }
+        ],
+        "fn list": [
+            {
+                "id": 2,
+                "data failure reason": "NA",
+                "issue_image": "test_cases/RoboFlowSyntheticData/DetR-large-scale.coco-segmentation/San Ridgedale/HybridDataValidationResult/sam3_fn_issue_wire_2.jpg"
+            }
+        ]
+    },
+    "fariq-generalize-dos.coco-segmentation/San Lakestead": {
+        "precision": 0.9999999966666667,
+        "recall": 0.9999999966666667,
+        "tp": 3,
+        "tn": 4,
+        "fp": 0,
+        "fn": 0,
+        "fp list": [],
+        "fn list": []
+    },
+    "DetR-large-scale.coco-segmentation/Grand Brookdale": {
+        "precision": 0.8749999989062499,
+        "recall": 0.9999999985714286,
+        "tp": 7,
+        "tn": 16,
+        "fp": 1,
+        "fn": 0,
+        "fp list": [
+            {
+                "id": 5,
+                "data failure reason": "NA",
+                "issue_image": "test_cases/RoboFlowSyntheticData/DetR-large-scale.coco-segmentation/Grand Brookdale/HybridDataValidationResult/sam3_fp_issue_wire_5.jpg"
+            }
+        ],
+        "fn list": []
+    },
+    "DetR-large-scale.coco-segmentation/Fort Lakeshire": {
+        "precision": 0.9999999992857143,
+        "recall": 0.5833333330902778,
+        "tp": 14,
+        "tn": 0,
+        "fp": 0,
+        "fn": 10,
+        "fp list": [],
+        "fn list": [
+            {
+                "id": 0,
+                "data failure reason": "NA",
+                "issue_image": "test_cases/RoboFlowSyntheticData/DetR-large-scale.coco-segmentation/Fort Lakeshire/HybridDataValidationResult/sam3_fn_issue_wire_0.jpg"
+            },
+            {
+                "id": 5,
+                "data failure reason": "NA",
+                "issue_image": "test_cases/RoboFlowSyntheticData/DetR-large-scale.coco-segmentation/Fort Lakeshire/HybridDataValidationResult/sam3_fn_issue_wire_5.jpg"
+            },
+            {
+                "id": 6,
+                "data failure reason": "NA",
+                "issue_image": "test_cases/RoboFlowSyntheticData/DetR-large-scale.coco-segmentation/Fort Lakeshire/HybridDataValidationResult/sam3_fn_issue_wire_6.jpg"
+            },
+            {
+                "id": 7,
+                "data failure reason": "NA",
+                "issue_image": "test_cases/RoboFlowSyntheticData/DetR-large-scale.coco-segmentation/Fort Lakeshire/HybridDataValidationResult/sam3_fn_issue_wire_7.jpg"
+            },
+            {
+                "id": 8,
+                "data failure reason": "NA",
+                "issue_image": "test_cases/RoboFlowSyntheticData/DetR-large-scale.coco-segmentation/Fort Lakeshire/HybridDataValidationResult/sam3_fn_issue_wire_8.jpg"
+            },
+            {
+                "id": 11,
+                "data failure reason": "NA",
+                "issue_image": "test_cases/RoboFlowSyntheticData/DetR-large-scale.coco-segmentation/Fort Lakeshire/HybridDataValidationResult/sam3_fn_issue_wire_11.jpg"
+            },
+            {
+                "id": 12,
+                "data failure reason": "NA",
+                "issue_image": "test_cases/RoboFlowSyntheticData/DetR-large-scale.coco-segmentation/Fort Lakeshire/HybridDataValidationResult/sam3_fn_issue_wire_12.jpg"
+            },
+            {
+                "id": 13,
+                "data failure reason": "NA",
+                "issue_image": "test_cases/RoboFlowSyntheticData/DetR-large-scale.coco-segmentation/Fort Lakeshire/HybridDataValidationResult/sam3_fn_issue_wire_13.jpg"
+            },
+            {
+                "id": 14,
+                "data failure reason": "NA",
+                "issue_image": "test_cases/RoboFlowSyntheticData/DetR-large-scale.coco-segmentation/Fort Lakeshire/HybridDataValidationResult/sam3_fn_issue_wire_14.jpg"
+            },
+            {
+                "id": 15,
+                "data failure reason": "NA",
+                "issue_image": "test_cases/RoboFlowSyntheticData/DetR-large-scale.coco-segmentation/Fort Lakeshire/HybridDataValidationResult/sam3_fn_issue_wire_15.jpg"
+            }
+        ]
+    },
+    "fariq-generalize-dos.coco-segmentation/Spring Port": {
+        "precision": 0.9999999966666667,
+        "recall": 0.9999999966666667,
+        "tp": 3,
+        "tn": 5,
+        "fp": 0,
+        "fn": 0,
+        "fp list": [],
+        "fn list": []
+    },
+    "DetR-large-scale.coco-segmentation/San Greenboro": {
+        "precision": 0.999999995,
+        "recall": 0.24999999968749997,
+        "tp": 2,
+        "tn": 0,
+        "fp": 0,
+        "fn": 6,
+        "fp list": [],
+        "fn list": [
+            {
+                "id": 0,
+                "data failure reason": "NA",
+                "issue_image": "test_cases/RoboFlowSyntheticData/DetR-large-scale.coco-segmentation/San Greenboro/HybridDataValidationResult/sam3_fn_issue_wire_0.jpg"
+            },
+            {
+                "id": 2,
+                "data failure reason": "NA",
+                "issue_image": "test_cases/RoboFlowSyntheticData/DetR-large-scale.coco-segmentation/San Greenboro/HybridDataValidationResult/sam3_fn_issue_wire_2.jpg"
+            },
+            {
+                "id": 3,
+                "data failure reason": "NA",
+                "issue_image": "test_cases/RoboFlowSyntheticData/DetR-large-scale.coco-segmentation/San Greenboro/HybridDataValidationResult/sam3_fn_issue_wire_3.jpg"
+            },
+            {
+                "id": 4,
+                "data failure reason": "NA",
+                "issue_image": "test_cases/RoboFlowSyntheticData/DetR-large-scale.coco-segmentation/San Greenboro/HybridDataValidationResult/sam3_fn_issue_wire_4.jpg"
+            },
+            {
+                "id": 5,
+                "data failure reason": "NA",
+                "issue_image": "test_cases/RoboFlowSyntheticData/DetR-large-scale.coco-segmentation/San Greenboro/HybridDataValidationResult/sam3_fn_issue_wire_5.jpg"
+            },
+            {
+                "id": 7,
+                "data failure reason": "NA",
+                "issue_image": "test_cases/RoboFlowSyntheticData/DetR-large-scale.coco-segmentation/San Greenboro/HybridDataValidationResult/sam3_fn_issue_wire_7.jpg"
+            }
+        ]
+    },
+    "DetR-large-scale.coco-segmentation/New Valley": {
+        "precision": 0.9166666659027777,
+        "recall": 0.9166666659027777,
+        "tp": 11,
+        "tn": 11,
+        "fp": 1,
+        "fn": 1,
+        "fp list": [
+            {
+                "id": 7,
+                "data failure reason": "NA",
+                "issue_image": "test_cases/RoboFlowSyntheticData/DetR-large-scale.coco-segmentation/New Valley/HybridDataValidationResult/sam3_fp_issue_wire_7.jpg"
+            }
+        ],
+        "fn list": [
+            {
+                "id": 17,
+                "data failure reason": "NA",
+                "issue_image": "test_cases/RoboFlowSyntheticData/DetR-large-scale.coco-segmentation/New Valley/HybridDataValidationResult/sam3_fn_issue_wire_17.jpg"
+            }
+        ]
+    },
+    "DOS-semicon.coco-segmentation/Glen Ridgewood": {
+        "precision": 0.9999999966666667,
+        "recall": 0.9999999966666667,
+        "tp": 3,
+        "tn": 5,
+        "fp": 0,
+        "fn": 0,
+        "fp list": [],
+        "fn list": []
+    },
+    "DetR-large-scale.coco-segmentation/North Clearstead": {
+        "precision": 0.9999999988888888,
+        "recall": 0.9999999988888888,
+        "tp": 9,
+        "tn": 16,
+        "fp": 0,
+        "fn": 0,
+        "fp list": [],
+        "fn list": []
+    },
+    "fariq-generalize-dos.coco-segmentation/Saint Pinecrest": {
+        "precision": 0.9999999983333333,
+        "recall": 0.9999999983333333,
+        "tp": 6,
+        "tn": 4,
+        "fp": 0,
+        "fn": 0,
+        "fp list": [],
+        "fn list": []
+    },
+    "fariq-generalize-dos.coco-segmentation/San Fair": {
+        "precision": 0.999999995,
+        "recall": 0.999999995,
+        "tp": 2,
+        "tn": 8,
+        "fp": 0,
+        "fn": 0,
+        "fp list": [],
+        "fn list": []
+    },
+    "DetR-large-scale.coco-segmentation/Glen Silverwood": {
+        "precision": 0.9999999991666666,
+        "recall": 0.9999999991666666,
+        "tp": 12,
+        "tn": 12,
+        "fp": 0,
+        "fn": 0,
+        "fp list": [],
+        "fn list": []
+    },
+    "DetR-large-scale.coco-segmentation/South Rockmount": {
+        "precision": 0.8181818174380164,
+        "recall": 0.8999999991,
+        "tp": 9,
+        "tn": 13,
+        "fp": 2,
+        "fn": 1,
+        "fp list": [
+            {
+                "id": 22,
+                "data failure reason": "NA",
+                "issue_image": "test_cases/RoboFlowSyntheticData/DetR-large-scale.coco-segmentation/South Rockmount/HybridDataValidationResult/sam3_fp_issue_wire_22.jpg"
+            },
+            {
+                "id": 23,
+                "data failure reason": "NA",
+                "issue_image": "test_cases/RoboFlowSyntheticData/DetR-large-scale.coco-segmentation/South Rockmount/HybridDataValidationResult/sam3_fp_issue_wire_23.jpg"
+            }
+        ],
+        "fn list": [
+            {
+                "id": 24,
+                "data failure reason": "NA",
+                "issue_image": "test_cases/RoboFlowSyntheticData/DetR-large-scale.coco-segmentation/South Rockmount/HybridDataValidationResult/sam3_fn_issue_wire_24.jpg"
+            }
+        ]
+    },
+    "UNISEM-ZN1461.coco-segmentation/Clear Boro": {
+        "precision": 0.7999999992,
+        "recall": 0.9999999987499999,
+        "tp": 8,
+        "tn": 14,
+        "fp": 2,
+        "fn": 0,
+        "fp list": [
+            {
+                "id": 6,
+                "data failure reason": "NA",
+                "issue_image": "test_cases/RoboFlowSyntheticData/UNISEM-ZN1461.coco-segmentation/Clear Boro/HybridDataValidationResult/sam3_fp_issue_wire_6.jpg"
+            },
+            {
+                "id": 11,
+                "data failure reason": "NA",
+                "issue_image": "test_cases/RoboFlowSyntheticData/UNISEM-ZN1461.coco-segmentation/Clear Boro/HybridDataValidationResult/sam3_fp_issue_wire_11.jpg"
+            }
+        ],
+        "fn list": []
+    },
+    "DetR-large-scale.coco-segmentation/Old Valleyshire": {
+        "precision": 0.9999999980000001,
+        "recall": 0.9999999980000001,
+        "tp": 5,
+        "tn": 19,
+        "fp": 0,
+        "fn": 0,
+        "fp list": [],
+        "fn list": []
+    },
+    "DOS-semicon.coco-segmentation/Mount Millshire": {
+        "precision": 0.9999999991666666,
+        "recall": 0.9999999991666666,
+        "tp": 12,
+        "tn": 10,
+        "fp": 0,
+        "fn": 0,
+        "fp list": [],
+        "fn list": []
+    },
+    "fariq-generalize-dos.coco-segmentation/Port Fairjunction": {
+        "precision": 0.9999999966666667,
+        "recall": 0.9999999966666667,
+        "tp": 3,
+        "tn": 8,
+        "fp": 0,
+        "fn": 0,
+        "fp list": [],
+        "fn list": []
+    },
+    "DetR-large-scale.coco-segmentation/Fair Marsh": {
+        "precision": 0.999999995,
+        "recall": 0.999999995,
+        "tp": 2,
+        "tn": 8,
+        "fp": 0,
+        "fn": 0,
+        "fp list": [],
+        "fn list": []
+    },
+    "fariq-generalize-dos.coco-segmentation/New Oakdale": {
+        "precision": 0.999999999375,
+        "recall": 0.999999999375,
+        "tp": 16,
+        "tn": 14,
+        "fp": 0,
+        "fn": 0,
+        "fp list": [],
+        "fn list": []
+    },
+    "DetR-large-scale.coco-segmentation/Saint Lake": {
+        "precision": 0.9999999996153845,
+        "recall": 0.96296296260631,
+        "tp": 26,
+        "tn": 0,
+        "fp": 0,
+        "fn": 1,
+        "fp list": [],
+        "fn list": [
+            {
+                "id": 8,
+                "data failure reason": "NA",
+                "issue_image": "test_cases/RoboFlowSyntheticData/DetR-large-scale.coco-segmentation/Saint Lake/HybridDataValidationResult/sam3_fn_issue_wire_8.jpg"
+            }
+        ]
+    },
+    "DOS-semicon.coco-segmentation/Santa Millcrest": {
+        "precision": 0.9999999991666666,
+        "recall": 0.9999999991666666,
+        "tp": 12,
+        "tn": 10,
+        "fp": 0,
+        "fn": 0,
+        "fp list": [],
+        "fn list": []
+    },
+    "DetR-large-scale.coco-segmentation/Santa Fairshire": {
+        "precision": 0.3333333322222222,
+        "recall": 0.9999999900000002,
+        "tp": 1,
+        "tn": 4,
+        "fp": 2,
+        "fn": 0,
+        "fp list": [
+            {
+                "id": 5,
+                "data failure reason": "NA",
+                "issue_image": "test_cases/RoboFlowSyntheticData/DetR-large-scale.coco-segmentation/Santa Fairshire/HybridDataValidationResult/sam3_fp_issue_wire_5.jpg"
+            },
+            {
+                "id": 4,
+                "data failure reason": "NA",
+                "issue_image": "test_cases/RoboFlowSyntheticData/DetR-large-scale.coco-segmentation/Santa Fairshire/HybridDataValidationResult/feature_fp_issue_wire_4.jpg"
+            }
+        ],
+        "fn list": []
+    },
+    "fariq-generalize-dos.coco-segmentation/South Pinewood": {
+        "precision": 0.9999999994736841,
+        "recall": 0.9499999995249999,
+        "tp": 19,
+        "tn": 20,
+        "fp": 0,
+        "fn": 1,
+        "fp list": [],
+        "fn list": [
+            {
+                "id": 35,
+                "data failure reason": "NA",
+                "issue_image": "test_cases/RoboFlowSyntheticData/fariq-generalize-dos.coco-segmentation/South Pinewood/HybridDataValidationResult/sam3_fn_issue_wire_35.jpg"
+            }
+        ]
+    },
+    "UNISEM-ZN1461.coco-segmentation/Valley Valley": {
+        "precision": 0.9999999995833333,
+        "recall": 0.9999999995833333,
+        "tp": 24,
+        "tn": 0,
+        "fp": 0,
+        "fn": 0,
+        "fp list": [],
+        "fn list": []
+    },
+    "fariq-generalize-dos.coco-segmentation/Marsh Silver": {
+        "precision": 0.9999999993333333,
+        "recall": 0.9999999993333333,
+        "tp": 15,
+        "tn": 25,
+        "fp": 0,
+        "fn": 0,
+        "fp list": [],
+        "fn list": []
+    },
+    "UNISEM-ZN1461.coco-segmentation/South Ridgefield": {
+        "precision": 0.7499999990624999,
+        "recall": 0.9999999983333333,
+        "tp": 6,
+        "tn": 16,
+        "fp": 2,
+        "fn": 0,
+        "fp list": [
+            {
+                "id": 4,
+                "data failure reason": "NA",
+                "issue_image": "test_cases/RoboFlowSyntheticData/UNISEM-ZN1461.coco-segmentation/South Ridgefield/HybridDataValidationResult/sam3_fp_issue_wire_4.jpg"
+            },
+            {
+                "id": 17,
+                "data failure reason": "NA",
+                "issue_image": "test_cases/RoboFlowSyntheticData/UNISEM-ZN1461.coco-segmentation/South Ridgefield/HybridDataValidationResult/feature_fp_issue_wire_17.jpg"
+            }
+        ],
+        "fn list": []
+    },
+    "DetR-large-scale.coco-segmentation/West Cedarboro": {
+        "precision": 0.9999999989999999,
+        "recall": 0.9999999989999999,
+        "tp": 10,
+        "tn": 14,
+        "fp": 0,
+        "fn": 0,
+        "fp list": [],
+        "fn list": []
+    },
+    "DetR-large-scale.coco-segmentation/Fort Ridge": {
+        "precision": 0.999999999090909,
+        "recall": 0.9166666659027777,
+        "tp": 11,
+        "tn": 13,
+        "fp": 0,
+        "fn": 1,
+        "fp list": [],
+        "fn list": [
+            {
+                "id": 2,
+                "data failure reason": "NA",
+                "issue_image": "test_cases/RoboFlowSyntheticData/DetR-large-scale.coco-segmentation/Fort Ridge/HybridDataValidationResult/sam3_fn_issue_wire_2.jpg"
+            }
+        ]
+    },
+    "DetR-large-scale.coco-segmentation/Rock Mill": {
+        "precision": 0.9999999995833333,
+        "recall": 0.9999999995833333,
+        "tp": 24,
+        "tn": 0,
+        "fp": 0,
+        "fn": 0,
+        "fp list": [],
+        "fn list": []
+    },
+    "DetR-large-scale.coco-segmentation/Fair Ton": {
+        "precision": 0.999999999375,
+        "recall": 0.999999999375,
+        "tp": 16,
+        "tn": 6,
+        "fp": 0,
+        "fn": 0,
+        "fp list": [],
+        "fn list": []
+    },
+    "DOS-semicon.coco-segmentation/Green Ridge": {
+        "precision": 0.9999999966666667,
+        "recall": 0.9999999966666667,
+        "tp": 3,
+        "tn": 5,
+        "fp": 0,
+        "fn": 0,
+        "fp list": [],
+        "fn list": []
+    },
+    "DOS-semicon.coco-segmentation/Glen Goldfield": {
+        "precision": 0.9999999992307692,
+        "recall": 0.9999999992307692,
+        "tp": 13,
+        "tn": 9,
+        "fp": 0,
+        "fn": 0,
+        "fp list": [],
+        "fn list": []
+    },
+    "DetR-large-scale.coco-segmentation/Glen Ridge": {
+        "precision": 0.9999999980000001,
+        "recall": 0.9999999980000001,
+        "tp": 5,
+        "tn": 3,
+        "fp": 0,
+        "fn": 0,
+        "fp list": [],
+        "fn list": []
+    },
+    "UNISEM-ZN1461.coco-segmentation/Lake Cedarfalls": {
+        "precision": 0.9999999988888888,
+        "recall": 0.9999999988888888,
+        "tp": 9,
+        "tn": 15,
+        "fp": 0,
+        "fn": 0,
+        "fp list": [],
+        "fn list": []
+    },
+    "UNISEM-ZN1461.coco-segmentation/North Clearmount": {
+        "precision": 0.9999999985714286,
+        "recall": 0.7777777769135802,
+        "tp": 7,
+        "tn": 15,
+        "fp": 0,
+        "fn": 2,
+        "fp list": [],
+        "fn list": [
+            {
+                "id": 4,
+                "data failure reason": "NA",
+                "issue_image": "test_cases/RoboFlowSyntheticData/UNISEM-ZN1461.coco-segmentation/North Clearmount/HybridDataValidationResult/sam3_fn_issue_wire_4.jpg"
+            },
+            {
+                "id": 5,
+                "data failure reason": "NA",
+                "issue_image": "test_cases/RoboFlowSyntheticData/UNISEM-ZN1461.coco-segmentation/North Clearmount/HybridDataValidationResult/sam3_fn_issue_wire_5.jpg"
+            }
+        ]
+    },
+    "DetR-large-scale.coco-segmentation/River Valley": {
+        "precision": 0.9999999987499999,
+        "recall": 0.9999999987499999,
+        "tp": 8,
+        "tn": 16,
+        "fp": 0,
+        "fn": 0,
+        "fp list": [],
+        "fn list": []
+    },
+    "DetR-large-scale.coco-segmentation/Old Millmount": {
+        "precision": 0.9999999987499999,
+        "recall": 0.9999999987499999,
+        "tp": 8,
+        "tn": 17,
+        "fp": 0,
+        "fn": 0,
+        "fp list": [],
+        "fn list": []
+    },
+    "DetR-large-scale.coco-segmentation/East Brookfalls": {
+        "precision": 0.9999999985714286,
+        "recall": 0.9999999985714286,
+        "tp": 7,
+        "tn": 15,
+        "fp": 0,
+        "fn": 0,
+        "fp list": [],
+        "fn list": []
+    },
+    "DetR-large-scale.coco-segmentation/Rock Field": {
+        "precision": 0.999999999090909,
+        "recall": 0.999999999090909,
+        "tp": 11,
+        "tn": 11,
+        "fp": 0,
+        "fn": 0,
+        "fp list": [],
+        "fn list": []
+    },
+    "UNISEM-ZN1461.coco-segmentation/Lake Clearville": {
+        "precision": 0.8333333319444445,
+        "recall": 0.9999999980000001,
+        "tp": 5,
+        "tn": 18,
+        "fp": 1,
+        "fn": 0,
+        "fp list": [
+            {
+                "id": 8,
+                "data failure reason": "NA",
+                "issue_image": "test_cases/RoboFlowSyntheticData/UNISEM-ZN1461.coco-segmentation/Lake Clearville/HybridDataValidationResult/sam3_fp_issue_wire_8.jpg"
+            }
+        ],
+        "fn list": []
+    },
+    "fariq-generalize-dos.coco-segmentation/Marsh Fair": {
+        "precision": 0.9999999975,
+        "recall": 0.9999999975,
+        "tp": 4,
+        "tn": 6,
+        "fp": 0,
+        "fn": 0,
+        "fp list": [],
+        "fn list": []
+    },
+    "DetR-large-scale.coco-segmentation/West Greenmount": {
+        "precision": 0.9999999994736841,
+        "recall": 0.9999999994736841,
+        "tp": 19,
+        "tn": 21,
+        "fp": 0,
+        "fn": 0,
+        "fp list": [],
+        "fn list": []
+    },
+    "DetR-large-scale.coco-segmentation/Oak Falls": {
+        "precision": 0.9999999975,
+        "recall": 0.9999999975,
+        "tp": 4,
+        "tn": 4,
+        "fp": 0,
+        "fn": 0,
+        "fp list": [],
+        "fn list": []
+    },
+    "UNISEM-ZN1461.coco-segmentation/North Springstead": {
+        "precision": 0.9999999991666666,
+        "recall": 0.9999999991666666,
+        "tp": 12,
+        "tn": 14,
+        "fp": 0,
+        "fn": 0,
+        "fp list": [],
+        "fn list": []
+    },
+    "fariq-generalize-dos.coco-segmentation/South Valleyton": {
+        "precision": 0.999999995,
+        "recall": 0.999999995,
+        "tp": 2,
+        "tn": 5,
+        "fp": 0,
+        "fn": 0,
+        "fp list": [],
+        "fn list": []
+    },
+    "UNISEM-ZN1461.coco-segmentation/Old Ridge": {
+        "precision": 0.8749999989062499,
+        "recall": 0.8749999989062499,
+        "tp": 7,
+        "tn": 16,
+        "fp": 1,
+        "fn": 1,
+        "fp list": [
+            {
+                "id": 24,
+                "data failure reason": "NA",
+                "issue_image": "test_cases/RoboFlowSyntheticData/UNISEM-ZN1461.coco-segmentation/Old Ridge/HybridDataValidationResult/sam3_fp_issue_wire_24.jpg"
+            }
+        ],
+        "fn list": [
+            {
+                "id": 5,
+                "data failure reason": "NA",
+                "issue_image": "test_cases/RoboFlowSyntheticData/UNISEM-ZN1461.coco-segmentation/Old Ridge/HybridDataValidationResult/sam3_fn_issue_wire_5.jpg"
+            }
+        ]
+    },
+    "UNISEM-ZN1461.coco-segmentation/Lake Wood": {
+        "precision": 0.9999999992307692,
+        "recall": 0.9999999992307692,
+        "tp": 13,
+        "tn": 12,
+        "fp": 0,
+        "fn": 0,
+        "fp list": [],
+        "fn list": []
+    },
+    "DetR-large-scale.coco-segmentation/Fort Greenport": {
+        "precision": 0.9999999966666667,
+        "recall": 0.9999999966666667,
+        "tp": 3,
+        "tn": 8,
+        "fp": 0,
+        "fn": 0,
+        "fp list": [],
+        "fn list": []
+    },
+    "DetR-large-scale.coco-segmentation/South Stoneburg": {
+        "precision": 0.9999999980000001,
+        "recall": 0.9999999980000001,
+        "tp": 5,
+        "tn": 19,
+        "fp": 0,
+        "fn": 0,
+        "fp list": [],
+        "fn list": []
+    },
+    "DOS-semicon.coco-segmentation/Glen Oak": {
+        "precision": 0.9999999966666667,
+        "recall": 0.9999999966666667,
+        "tp": 3,
+        "tn": 5,
+        "fp": 0,
+        "fn": 0,
+        "fp list": [],
+        "fn list": []
+    },
+    "DetR-large-scale.coco-segmentation/Santa Springfalls": {
+        "precision": 0.8888888879012344,
+        "recall": 0.9999999987499999,
+        "tp": 8,
+        "tn": 15,
+        "fp": 1,
+        "fn": 0,
+        "fp list": [
+            {
+                "id": 23,
+                "data failure reason": "NA",
+                "issue_image": "test_cases/RoboFlowSyntheticData/DetR-large-scale.coco-segmentation/Santa Springfalls/HybridDataValidationResult/sam3_fp_issue_wire_23.jpg"
+            }
+        ],
+        "fn list": []
+    },
+    "UNISEM-ZN1461.coco-segmentation/Gold Ridge": {
+        "precision": 0.9999999988888888,
+        "recall": 0.9999999988888888,
+        "tp": 9,
+        "tn": 15,
+        "fp": 0,
+        "fn": 0,
+        "fp list": [],
+        "fn list": []
+    },
+    "UNISEM-ZN1461.coco-segmentation/Mill Ville": {
+        "precision": 0.9166666659027777,
+        "recall": 0.999999999090909,
+        "tp": 11,
+        "tn": 12,
+        "fp": 1,
+        "fn": 0,
+        "fp list": [
+            {
+                "id": 0,
+                "data failure reason": "NA",
+                "issue_image": "test_cases/RoboFlowSyntheticData/UNISEM-ZN1461.coco-segmentation/Mill Ville/HybridDataValidationResult/feature_fp_issue_wire_0.jpg"
+            }
+        ],
+        "fn list": []
+    },
+    "DetR-large-scale.coco-segmentation/Fort Stonestead": {
+        "precision": 0.9999999995833333,
+        "recall": 0.9999999995833333,
+        "tp": 24,
+        "tn": 0,
+        "fp": 0,
+        "fn": 0,
+        "fp list": [],
+        "fn list": []
+    },
+    "DetR-large-scale.coco-segmentation/Lake Stonemount": {
+        "precision": 0.9999999992857143,
+        "recall": 0.9999999992857143,
+        "tp": 14,
+        "tn": 10,
+        "fp": 0,
+        "fn": 0,
+        "fp list": [],
+        "fn list": []
+    },
+    "DetR-large-scale.coco-segmentation/South Pineport": {
+        "precision": 0.9999999966666667,
+        "recall": 0.9999999966666667,
+        "tp": 3,
+        "tn": 5,
+        "fp": 0,
+        "fn": 0,
+        "fp list": [],
+        "fn list": []
+    },
+    "DetR-large-scale.coco-segmentation/Mill Ford": {
+        "precision": 0.9999999989999999,
+        "recall": 0.9999999989999999,
+        "tp": 10,
+        "tn": 14,
+        "fp": 0,
+        "fn": 0,
+        "fp list": [],
+        "fn list": []
+    },
+    "DetR-large-scale.coco-segmentation/West Valleystead": {
+        "precision": 0.9999999987499999,
+        "recall": 0.9999999987499999,
+        "tp": 8,
+        "tn": 22,
+        "fp": 0,
+        "fn": 0,
+        "fp list": [],
+        "fn list": []
+    },
+    "fariq-generalize-dos.coco-segmentation/San Green": {
+        "precision": 0.9090909082644627,
+        "recall": 0.9999999989999999,
+        "tp": 10,
+        "tn": 14,
+        "fp": 1,
+        "fn": 0,
+        "fp list": [
+            {
+                "id": 24,
+                "data failure reason": "NA",
+                "issue_image": "test_cases/RoboFlowSyntheticData/fariq-generalize-dos.coco-segmentation/San Green/HybridDataValidationResult/sam3_fp_issue_wire_24.jpg"
+            }
+        ],
+        "fn list": []
+    },
+    "UNISEM-ZN1461.coco-segmentation/River Oak": {
+        "precision": 0.9999999992307692,
+        "recall": 0.9999999992307692,
+        "tp": 13,
+        "tn": 11,
+        "fp": 0,
+        "fn": 0,
+        "fp list": [],
+        "fn list": []
+    },
+    "DOS-semicon.coco-segmentation/Stone Pine": {
+        "precision": 0.9999999966666667,
+        "recall": 0.9999999966666667,
+        "tp": 3,
+        "tn": 5,
+        "fp": 0,
+        "fn": 0,
+        "fp list": [],
+        "fn list": []
+    },
+    "DetR-large-scale.coco-segmentation/Fair Dale": {
+        "precision": 0.9999999987499999,
+        "recall": 0.9999999987499999,
+        "tp": 8,
+        "tn": 15,
+        "fp": 0,
+        "fn": 0,
+        "fp list": [],
+        "fn list": []
+    },
+    "fariq-generalize-dos.coco-segmentation/Santa Spring": {
+        "precision": 0.944444443919753,
+        "recall": 0.9999999994117647,
+        "tp": 17,
+        "tn": 22,
+        "fp": 1,
+        "fn": 0,
+        "fp list": [
+            {
+                "id": 2,
+                "data failure reason": "NA",
+                "issue_image": "test_cases/RoboFlowSyntheticData/fariq-generalize-dos.coco-segmentation/Santa Spring/HybridDataValidationResult/sam3_fp_issue_wire_2.jpg"
+            }
+        ],
+        "fn list": []
+    },
+    "UNISEM-ZN1461.coco-segmentation/North Fairport": {
+        "precision": 0.9999999991666666,
+        "recall": 0.9999999991666666,
+        "tp": 12,
+        "tn": 13,
+        "fp": 0,
+        "fn": 0,
+        "fp list": [],
+        "fn list": []
+    }
+}
